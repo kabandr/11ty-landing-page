@@ -1,0 +1,19 @@
+{
+  "name": "distroless",
+  "version": "1.0.0",
+  "description": "Example of a distroless nodejs docker image",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "distroless",
+    "express",
+    "docker"
+  ],
+  "author": "Rene Kabanda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
